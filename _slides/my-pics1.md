@@ -4,7 +4,6 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
-autoWidth: true
 
 ---
 
