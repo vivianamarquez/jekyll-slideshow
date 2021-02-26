@@ -4,13 +4,8 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
-style:
-  body:
-    init:
-      position: absolute
-      bottom: 0
-      width: 50%
-      height: 200%
+vertical: true
+
 ---
 
 * ![Viviana Márquez](resized/Viviana_Marquez_Modelo_Model_Colombian_Miami_TV_Host_Radio_Presentadora13.JPG)
